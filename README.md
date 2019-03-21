@@ -1,5 +1,7 @@
 # Dragon_Curve_Fractal
 
+![Capture](https://user-images.githubusercontent.com/36446402/54754867-93871c00-4c0a-11e9-9f52-ef12b6f3db5a.PNG)
+
 First of all, this code has been written in Python using the Turtle Package. In a nutshell, this is pretty similar to the good old PC Logo program. I’ve used simple loop structures to print this fractal.
 
 ![PythonTurtleGraphics2019032](https://user-images.githubusercontent.com/36446402/54754726-34290c00-4c0a-11e9-8f75-2c37bdcf111f.gif)
